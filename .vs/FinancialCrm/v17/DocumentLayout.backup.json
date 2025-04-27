@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\serce\\Desktop\\MuratYucedagYoutube\\FinancialCrm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\serce\\Desktop\\MuratYucedagYoutube\\FinancialCrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\serce\\desktop\\muratyucedagyoutube\\financialcrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\serce\\desktop\\muratyucedagyoutube\\financialcrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\serce\\Desktop\\MuratYucedagYoutube\\FinancialCrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B7A2C6EB-986C-4CE7-85E1-3BEFE4953811}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -45,8 +45,7 @@
               "ToolTip": "C:\\Users\\serce\\Desktop\\MuratYucedagYoutube\\FinancialCrm\\FinancialCrm\\FrmLogin.cs [Design]",
               "RelativeToolTip": "FinancialCrm\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:47:20.59Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-27T02:47:20.59Z"
             },
             {
               "$type": "Document",
